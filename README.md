@@ -1,5 +1,5 @@
 
-Following settings seem to work fine:
+Following settings seem to work fine (these are currently set in the project):
 
 VSync = VSyncMode.On;
 IsMultiThreaded = false;
