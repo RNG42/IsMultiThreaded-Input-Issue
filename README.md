@@ -1,5 +1,4 @@
-# IsMultiThreaded Input Issue
- 
+
 Following settings seem to work fine:
 
 VSync = VSyncMode.On;
