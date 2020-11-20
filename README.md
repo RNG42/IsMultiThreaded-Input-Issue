@@ -14,13 +14,13 @@ VSync = VSyncMode.Off;
 IsMultiThreaded = false;
 UpdateFrequency = 60;
 
-case 1:
+case 2:
 
 VSync = VSyncMode.On;
 IsMultiThreaded = true;
 UpdateFrequency = 60;
 
-case 1:
+case 3:
 
 VSync = VSyncMode.Off;
 IsMultiThreaded = true;
